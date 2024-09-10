@@ -10,7 +10,7 @@ const Home = () => {
   const API_KEY = `403638c82ea56a812a38320d90e331f6`;
 
   const validatePhoneNumber = () => {
-    const url = `http://apilayer.net/api/validate?access_key=${API_KEY}&number=${phoneNumber}`;
+    const url = `https://apilayer.net/api/validate?access_key=${API_KEY}&number=${phoneNumber}`;
 
     setResult(null);
     setError(null);
