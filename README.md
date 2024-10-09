@@ -1,9 +1,9 @@
 #React Router App
 
- ##Project Overview
+##Project Overview
 This is a simple React app demonstrating navigation using React Router. It includes two main pages: "Home" and "About Us", which are linked through a navigation menu. The app utilizes React Router's Routes, Route, and Link components to create seamless routing between pages.
 
-<h3 Features>
+ Features
 React Router: Enables client-side routing without reloading the page.
 Home Page: A default landing page.
 About Us Page: Provides additional information about the site or organization.
